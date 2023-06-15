@@ -50,7 +50,7 @@ hr {
     }
 }
 
-@media screen and (min-width:1728px) {
+@media screen and (min-width:1366px) {
 
     .rodape {
         padding: 3rem 0;
