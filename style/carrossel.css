@@ -140,7 +140,7 @@
         }
 }
 
-@media screen and (min-width:1728px) {
+@media screen and (min-width:1366px) {
     .swiper-pagination {
         margin: 1rem 0;
     }
